@@ -2,16 +2,9 @@
 
 import readlineSync from 'readline-sync'
 import greetUser from '../src/cli.js'
+import { getRandomNumber } from '../src/utils/random.js'
 
 const isEven = number => number % 2 === 0
-
-// Генерация случайного числа
-const getRandomNumber = (min, max) => {
-  const randomBuffer = new Uint32Array(1)
-  crypto.getRandomValues(randomBuffer)
-  const randomNumber = randomBuffer[0] / (0xFFFFFFFF + 1)
-  return Math.floor(randomNumber * (max - min + 1)) + min
-}
 
 const runGame = () => {
   const userName = greetUser()
