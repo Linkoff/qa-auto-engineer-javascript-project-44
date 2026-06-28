@@ -10,7 +10,14 @@
 ## Games
 
 - **brain-even** — Check if a number is even
+- **brain-calc** — Calculate the result of an expression
 
 ## Demo
 
+### brain-even
+
 [![asciicast](https://asciinema.org/a/sNtyJixNFdWhcCwZ.svg)](https://asciinema.org/a/sNtyJixNFdWhcCwZ)
+
+### brain-calc
+
+[![asciicast](https://asciinema.org/a/FVLYBwjg3JxVvJ5z.svg)](https://asciinema.org/a/FVLYBwjg3JxVvJ5z)
