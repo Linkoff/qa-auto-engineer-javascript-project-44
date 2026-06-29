@@ -13,6 +13,7 @@
 - **brain-calc** — Calculate the result of an expression
 - **brain-gcd** — Find the greatest common divisor
 - **brain-progression** — Find the missing number in the progression
+- **brain-prime** — Check if a number is prime
 
 ## Demo
 
@@ -31,3 +32,7 @@
 ### brain-progression
 
 [![asciicast](https://asciinema.org/a/RDFFbmaPBAYuze0U.svg)](https://asciinema.org/a/RDFFbmaPBAYuze0U)
+
+### brain-prime
+
+[![asciicast](https://asciinema.org/a/QCRHTjyX1FPquhbQ.svg)](https://asciinema.org/a/QCRHTjyX1FPquhbQ)
