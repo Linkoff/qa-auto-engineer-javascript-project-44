@@ -11,6 +11,7 @@
 
 - **brain-even** — Check if a number is even
 - **brain-calc** — Calculate the result of an expression
+- **brain-gcd** — Find the greatest common divisor
 
 ## Demo
 
@@ -21,3 +22,7 @@
 ### brain-calc
 
 [![asciicast](https://asciinema.org/a/FVLYBwjg3JxVvJ5z.svg)](https://asciinema.org/a/FVLYBwjg3JxVvJ5z)
+
+### brain-gcd
+
+[![asciicast](https://asciinema.org/a/KOKwahlUTWDLeU56.svg)](https://asciinema.org/a/KOKwahlUTWDLeU56)
