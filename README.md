@@ -12,6 +12,7 @@
 - **brain-even** — Check if a number is even
 - **brain-calc** — Calculate the result of an expression
 - **brain-gcd** — Find the greatest common divisor
+- **brain-progression** — Find the missing number in the progression
 
 ## Demo
 
@@ -26,3 +27,7 @@
 ### brain-gcd
 
 [![asciicast](https://asciinema.org/a/KOKwahlUTWDLeU56.svg)](https://asciinema.org/a/KOKwahlUTWDLeU56)
+
+### brain-progression
+
+[![asciicast](https://asciinema.org/a/RDFFbmaPBAYuze0U.svg)](https://asciinema.org/a/RDFFbmaPBAYuze0U)
